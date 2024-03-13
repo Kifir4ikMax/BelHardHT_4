@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03e2533a-eb54-4544-80e8-49274f35d52a" name="Changes" comment="Complited task #3.">
+    <list default="true" id="03e2533a-eb54-4544-80e8-49274f35d52a" name="Changes" comment="Complited task #1.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_4_1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,23 +28,13 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;history&quot;: [
-    {
-      &quot;state&quot;: &quot;OPEN&quot;
-    }
-  ],
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Kifir4ikMax"
   }
-}</component>
+}]]></component>
   <component name="GithubPullRequestsUISettings">
-    <option name="recentNewPullRequestHead">
-      <RepoCoordinatesHolder>
-        <option name="owner" value="Kifir4ikMax" />
-        <option name="repository" value="BelHardHT_4" />
-      </RepoCoordinatesHolder>
-    </option>
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
         <option name="accountId" value="a3485f88-bd90-4ed8-b5bb-220dbc43ea46" />
@@ -54,9 +45,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 3
-}</component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
   <component name="ProjectId" id="2dd73Ah4fwY7Hr13OJYkasTmevG" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -69,7 +60,7 @@
     "Python.lesson_4_2.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Task-3",
+    "git-widget-placeholder": "Task-2",
     "ignore.virus.scanning.warn.message": "true"
   }
 }]]></component>
@@ -140,7 +131,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="Task-3" />
+                        <option value="Task-2" />
                       </list>
                     </value>
                   </entry>
