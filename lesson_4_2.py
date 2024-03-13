@@ -1,6 +1,4 @@
 # Создать два списка, с одинаковым кол-вом элементов.
-from typing import List
-
 digit_list = [11, 1, 1992]
 string_list = ['eleven', 'one', 'nineteen ninty two']
 
