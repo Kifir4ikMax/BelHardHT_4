@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03e2533a-eb54-4544-80e8-49274f35d52a" name="Changes" comment="Create two empty lists in main.">
+    <list default="true" id="03e2533a-eb54-4544-80e8-49274f35d52a" name="Changes" comment="Complited task #1.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_4_1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +21,26 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Kifir4ikMax"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="a3485f88-bd90-4ed8-b5bb-220dbc43ea46" />
+        <option name="url" value="git@github.com:Kifir4ikMax/BelHardHT_4.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -38,9 +57,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.lesson_4.executor": "Run",
+    "Python.lesson_4_2.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "Task-2",
     "ignore.virus.scanning.warn.message": "true"
   }
 }]]></component>
@@ -81,7 +101,23 @@
       <option name="project" value="LOCAL" />
       <updated>1710327796836</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Create two empty lists in main.">
+      <option name="closed" value="true" />
+      <created>1710329886314</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710329886314</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Complited task #1.">
+      <option name="closed" value="true" />
+      <created>1710329965357</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1710329965357</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -89,7 +125,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="Task-2" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -97,6 +145,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Create two empty lists in main." />
-    <option name="LAST_COMMIT_MESSAGE" value="Create two empty lists in main." />
+    <MESSAGE value="Complited task #1." />
+    <option name="LAST_COMMIT_MESSAGE" value="Complited task #1." />
   </component>
 </project>
